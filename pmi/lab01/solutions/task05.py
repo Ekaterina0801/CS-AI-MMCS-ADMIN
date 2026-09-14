@@ -1,8 +1,7 @@
-a = int(input())
-b = int(input())
-# третья переменная хранит исходное значение a, иначе оно потеряется
-temp = a
-a = b
-b = temp
-print(a)
-print(b)
+total = int(input())
+hours = total // 3600
+minutes = total % 3600 // 60
+seconds = total % 60
+print(hours)
+print(minutes)
+print(seconds)
