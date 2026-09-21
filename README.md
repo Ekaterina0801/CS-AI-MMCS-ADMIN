@@ -20,7 +20,7 @@
 | № | Тема | Сдача | Методичка ПМИ | Методичка ФИИТ |
 |:---:|---|---|---|---|
 | 01 | Первые программы на Python | файлами или ZIP | [pmi/lab01](pmi/lab01/TEACHER.md) | [fiit/lab01](fiit/lab01/TEACHER.md) |
-| 02 | Git и GitHub | ссылкой на fork | [pmi/lab02](pmi/lab02/TEACHER.md) | [fiit/lab02](fiit/lab02/TEACHER.md) |
+| 02 | Git и GitHub | ссылкой на свой репозиторий | [pmi/lab02](pmi/lab02/TEACHER.md) | [fiit/lab02](fiit/lab02/TEACHER.md) |
 | 03–14 | по плану курса | — | готовится | готовится |
 
 ## Moodle
