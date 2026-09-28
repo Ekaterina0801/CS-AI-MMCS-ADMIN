@@ -276,6 +276,7 @@ def test_output_format():
 | `git.commit_granularity` | `{"max_bulk": 0}` | нет коммита, в котором почти вся работа |
 | `git.branching` | `{"min_merges": 1}` | было слияние ветки |
 | `git.revert` | `{"min_reverts": 1}` | изменение отменено через `git revert` |
+| `git.tags` | `{"min_tags": 1}` | версия отмечена тегом на собственном коммите |
 | `git.work_spread` | `{"min_days": 2}` | работа не сделана за один заход |
 | `git.published` | `{"min_commits": 3}` | изменения опубликованы в репозитории студента |
 | `git.no_web_commits` | `{"max_share": 0.3}` | правки сделаны не через кнопку «Edit» на сайте |
