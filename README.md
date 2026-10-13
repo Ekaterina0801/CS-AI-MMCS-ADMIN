@@ -23,7 +23,8 @@
 | 02 | Git и GitHub | ссылкой на свой репозиторий | [pmi/lab02](pmi/lab02/TEACHER.md) | [fiit/lab02](fiit/lab02/TEACHER.md) |
 | 03 | Воркшоп по Git (ПМИ) · Основы Python (ФИИТ) | ссылкой на свой репозиторий | [pmi/lab03](pmi/lab03/TEACHER.md) | [fiit/lab03](fiit/lab03/TEACHER.md) |
 | 04 | Обработка данных (ПМИ) · Функции и списки (ФИИТ) | ссылкой на свой репозиторий | [pmi/lab04](pmi/lab04/TEACHER.md) | [fiit/lab04](fiit/lab04/TEACHER.md) |
-| 05–14 | по плану курса | — | готовится | готовится |
+| 05 | Текстовые файлы (ПМИ) · Файлы и CSV (ФИИТ) | только ссылкой на репозиторий | [pmi/lab05](pmi/lab05/TEACHER.md) | [fiit/lab05](fiit/lab05/TEACHER.md) |
+| 06–14 | по плану курса | — | готовится | готовится |
 
 ## Moodle
 
