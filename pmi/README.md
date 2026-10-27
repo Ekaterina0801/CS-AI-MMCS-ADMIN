@@ -10,3 +10,4 @@
 | 04 | Повторение Python для обработки данных | [TEACHER.md](lab04/TEACHER.md) | [TESTS.md](lab04/TESTS.md) | [solutions/](lab04/solutions) | [открыть](https://github.com/Ekaterina0801/CS-AI-MMCS/blob/main/pmi/lab04/README.md) |
 | 05 | Текстовые файлы | [TEACHER.md](lab05/TEACHER.md) | [TESTS.md](lab05/TESTS.md) | [solutions/](lab05/solutions) | [открыть](https://github.com/Ekaterina0801/CS-AI-MMCS/blob/main/pmi/lab05/README.md) |
 | 06 | Файловая система в Python | [TEACHER.md](lab06/TEACHER.md) | [TESTS.md](lab06/TESTS.md) | [solutions/](lab06/solutions) | [открыть](https://github.com/Ekaterina0801/CS-AI-MMCS/blob/main/pmi/lab06/README.md) |
+| 07 | Форматы хранения данных | [TEACHER.md](lab07/TEACHER.md) | [TESTS.md](lab07/TESTS.md) | [solutions/](lab07/solutions) | [открыть](https://github.com/Ekaterina0801/CS-AI-MMCS/blob/main/pmi/lab07/README.md) |
